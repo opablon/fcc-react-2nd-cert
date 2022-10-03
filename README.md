@@ -3,4 +3,4 @@
 
 Vite + React + react-markdown
 
-deploy: https://opablon.github.io/fcc-react-2nd-cert/
+deploy: https://opablon.github.io/fcc-markdown-previewer-vite-react/
